@@ -17,5 +17,18 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  /*font-family: Arial, Helvetica, sans-serif;*/
+  font-family: Poppins, sans-serif;
+  background-image: url("https://www.transparenttextures.com/patterns/project-paper.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.hero-background {
+  background-image: url(/images/HeroBackground.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
 }
