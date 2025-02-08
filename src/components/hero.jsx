@@ -76,7 +76,7 @@ const Hero = () => {
                 {/*</div>*/}
             </header>
 
-            <div className="relative isolate px-6 pt-14 lg:px-8">
+            <div className="relative isolate px-6 pt-14 lg:px-8 h-screen">
                 <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
                      aria-hidden="true">
                     <div
@@ -85,7 +85,7 @@ const Hero = () => {
                             clipPath: 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)'
                         }}></div>
                 </div>
-                <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+                <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 h-full">
                     <div className="hidden sm:mb-8 sm:flex sm:justify-center">
                         {/*<div*/}
                         {/*    className="relative rounded-full px-3 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">*/}
@@ -99,8 +99,8 @@ const Hero = () => {
                         <br/>
                         <h3 className={"text-3xl font-semibold tracking-tight text-balance text-gray-100 sm:text-4xl"}>Minecraft LifeSteal SMP</h3>
                         <p className="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">
-                            Java: <b>play.lolihunter.my.id</b> <br />
-                            Bedrock: IP: <b>play.lolihunter.my.id</b> | Port: <b>25171</b> <br />
+                            Java: <b>play.expiproject.com</b> <br />
+                            Bedrock: IP: <b>play.expiproject.com</b> | Port: <b>25171</b> <br />
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6">
                             <a href="https://discord.gg/buCST8Y5SZ"
