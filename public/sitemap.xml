@@ -4,6 +4,7 @@
 <url>
 	<loc>https://www.expiproject.com/</loc>
 	<lastmod>2025-02-11T10:17:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<changefreq>daily</changefreq>
+	<priority>1</priority>
 </url>
 </urlset>
